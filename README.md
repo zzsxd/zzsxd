@@ -23,4 +23,4 @@
 </p>
 
 ### 🤝 You can find me on:  
-[💼 LinkedIn](https://www.linkedin.com/in/nikita-tsapkov-5a2188369/) - [🧑‍💻 GitHub](https://github.com/zzsxd) - 📧 **nikitatsapkov@icloud.com**
+[💼 LinkedIn](https://www.linkedin.com/in/nikita-tsapkov-5a2188369/) - [🧑‍💻 GitHub](https://github.com/zzsxd) - [💬 Telegram](https://t.me/xdzzs/) - 📧 **nikitatsapkov@icloud.com**
