@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/zzsxd/zzsxd/blob/main/assets/ZZS_AV.png">
+<img align="left" src="https://github.com/zzsxd/zzsxd/blob/main/assets/ZZS_AV.png" width="500">
 
 ### Hello! 👋
 
